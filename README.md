@@ -2,4 +2,5 @@
 CI/CD learning environment
 my staging parctice
 Application monitoring: Dynatrace Production
+Application monitoring: Dynatrace + Database
 Dynatrace monitoring practice
