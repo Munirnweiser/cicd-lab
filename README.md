@@ -6,3 +6,4 @@ Application monitoring: Dynatrace + Database
 Dynatrace monitoring practice
 Main branch change
 CI/CD pipeline development
+Second developer change
