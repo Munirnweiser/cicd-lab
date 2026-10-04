@@ -7,3 +7,4 @@ Dynatrace monitoring practice
 Main branch change
 CI/CD pipeline development
 Second developer change
+Disk space monitoring enabled
